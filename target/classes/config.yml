@@ -1,0 +1,22 @@
+#绑定插件杂项
+Bind:
+  Key: "&4灵魂绑定"
+  PreKey: "&e使用后绑定"
+  Sound: "LEVEL_UP"
+#以下为插件提示信息
+Tips:
+  BindSuccess: "&8[&6Bind&8] &e>> &a绑定成功!"
+  BindFail: "&8[&6Bind&8] &e>> &7绑定失败!请检查手上的物品是否正确!"
+  UnBindSuccess: "&8[&6Bind&8] &e>> &a解绑成功!"
+  UnBindFail: "&8[&6Bind&8] &e>> &7解绑失败!请检查手上的物品是否正确!"
+  ReloadSuccess: "&8[&6Bind&8] &e>> &a已重新载入配置文件!"
+  NoPermission: "&8[&6Bind&8] &e>> &c权限不足!"
+  #Inventory -> 物品点击的操作
+  Inventory:
+    IsBind: "&8[&6Bind&8] &e>> &c该物品已被绑定!"
+  #Drop -> 丢弃物品的操作
+  Drop:
+    IsBind: "&8[&6Bind&8] &e>> &c该物品已被绑定!"
+  #Craft -> 合成物品的操作
+  Craft:
+    IsBind: "&8[&6Bind&8] &e>> &c该物品已被绑定!"

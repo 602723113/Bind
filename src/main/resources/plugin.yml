@@ -1,0 +1,7 @@
+name: Bind
+main: me.may.bind.Entry
+version: 0.0.1-SNAPSHOT
+author: May_Speed
+commands:
+  bind:
+    description: BindPlugin's Main Command 
