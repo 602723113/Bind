@@ -1,6 +1,6 @@
 name: Bind
 main: me.may.bind.Entry
-version: 0.0.1-SNAPSHOT
+version: 0.0.2-SNAPSHOT
 author: May_Speed
 commands:
   bind:

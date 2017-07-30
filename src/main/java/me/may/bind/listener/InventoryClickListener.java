@@ -24,7 +24,6 @@ public class InventoryClickListener implements Listener {
 		if (player.isOp()) {
 			return;
 		}
-		System.out.println(e.getInventory().getTitle());
 		ItemStack currentItem = e.getCurrentItem();
 		if (BindAPI.isBind(currentItem) 
 				&& !e.getInventory().getTitle().equalsIgnoreCase("container.inventory") 
